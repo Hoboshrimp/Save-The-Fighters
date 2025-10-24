@@ -36,4 +36,4 @@ This project is licensed under the MIT License, allowing free use and distributi
 
 ---
 
-**Together, let's make MMA safer and fairer for fighters and fans alike!**
+**Together, let's make MMA safer and fairer for fighters and fans alike! Please share on Reddit and Social Media to spread the word!**
